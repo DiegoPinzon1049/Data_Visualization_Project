@@ -9,8 +9,6 @@ The data contains a relevant information about temporal data, bike stations and 
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
 In the exploration during my analysis of the dataset, I extracted valuable insights related to bicycle trips in San Francisco. I discovered that
 weekdays, particularly from Monday to Friday, exhibit higher activity compared to weekends, with Thursday standing out as the day of
 highest engagement. In terms of trip duration, it was revealed that 62% of trips last less than 10 minutes, and 28.74% have a duration between
